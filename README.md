@@ -3,4 +3,11 @@
 
 
 
+<<<<<<< Updated upstream
 <p align="right">-栉子</p>
+=======
+
+
+<p align = "right">-栉子</p>
+
+>>>>>>> Stashed changes
